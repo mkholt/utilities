@@ -2,6 +2,10 @@
   "name": "@mkholt/utilities",
   "version": "1.0.1",
   "description": "Fully typed small utility functions that I often need",
+  "repository": {
+    "type": "git",
+    "url": "github:mkholt/utilities"
+  },
   "files": [
     "dist/*"
   ],
