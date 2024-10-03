@@ -1,6 +1,6 @@
 {
   "name": "@mkholt/utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fully typed small utility functions that I often need",
   "files": [
     "dist/*"
